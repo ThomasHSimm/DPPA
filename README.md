@@ -1,5 +1,5 @@
 # DPPA
-
+<a href="https://zenodo.org/badge/latestdoi/23104/dMaterialia/DPPA"><img src="https://zenodo.org/badge/23104/dMaterialia/DPPA.svg" alt="10.5281/zenodo.59156"></a> 
 Matlab Code for analysing Diffraction Peak Profiles (DPPA). http://dmata.co.uk/dppa.html
 
 Beta code will be available within July 2016, any help finding bugs would be greatly appreciated.
