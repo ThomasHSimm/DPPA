@@ -3,7 +3,7 @@
 If you find use for any of the code please cite ref [1] below. Any errors or recommendations will be greatly appreciated and can be noted here on github or by emailing Thomas.Simm@dMata.co.uk, and I will do my best to respond. 
 It's not been fully tested so expect some bugs, that's why I need your help
 
-The latest version is DPPAv2.zip, download this and unzip. Run by typing >>BIGdippa and >>dippaFC. 
+The latest version is dippa_V3.zip, download this and unzip. Run by typing >>BIGdippa and >>dippaFC. 
 The results of BIGdippa are used for the Fourier analysis within dippaFC so start with BIGdippa. There are some example results files that can be used to check it is working. 
 
 Thomas
