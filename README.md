@@ -1,5 +1,9 @@
 # DPPA
 
+Tool for diffraction peak profile analysis.
+
+Latest version 3.2 available as app. (dippa.mlappinstall)
+
 If you find use for any of the code please cite ref [1] below. Any errors or recommendations will be greatly appreciated and can be noted here on github or by emailing Thomas.Simm@dMata.co.uk, and I will do my best to respond. 
 It's not been fully tested so expect some bugs, that's why I need your help
 
